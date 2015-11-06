@@ -1,0 +1,152 @@
+Acura (Asia)
+CountHybrid=0 CountSUV=1 CountSedan=5 CountSports=1 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=33337 MedianSedan=30299 MedianSports=79978 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=14367 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Audi (Europe)
+CountHybrid=0 CountSUV=0 CountSedan=13 CountSports=4 CountTruck=0 CountWagon=2
+MedianHybrid=0 MedianSUV=0 MedianSedan=35992 MedianSports=35315 MedianTruck=0 MedianWagon=40753
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=8687 DistanceSports=23376.5 DistanceTruck=0 DistanceWagon=-15985.5
+BMW (Europe)
+CountHybrid=0 CountSUV=2 CountSedan=13 CountSports=4 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=40796.5 MedianSedan=34800 MedianSports=40872.5 MedianTruck=0 MedianWagon=30110
+DistanceHybrid=0 DistanceSUV=1637 DistanceSedan=8645 DistanceSports=13672.5 DistanceTruck=0 DistanceWagon=0
+Buick (USA)
+CountHybrid=0 CountSUV=2 CountSedan=7 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=29221 MedianSedan=26047 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=2123.5 DistanceSedan=9409 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Cadillac (USA)
+CountHybrid=0 CountSUV=2 CountSedan=4 CountSports=1 CountTruck=1 CountWagon=0
+MedianHybrid=0 MedianSUV=45950 MedianSedan=42745.5 MedianSports=70546 MedianTruck=48541 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=5725 DistanceSedan=9989 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Chevrolet (USA)
+CountHybrid=0 CountSUV=4 CountSedan=15 CountSports=2 CountTruck=5 CountWagon=1
+MedianHybrid=0 MedianSUV=31883 MedianSedan=20026 MedianSports=42130.5 MedianTruck=31689 MedianWagon=20394
+DistanceHybrid=0 DistanceSUV=13561 DistanceSedan=9047 DistanceSports=9760.5 DistanceTruck=16919 DistanceWagon=0
+Chrysler (USA)
+CountHybrid=0 CountSUV=0 CountSedan=13 CountSports=1 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=0 MedianSedan=24172 MedianSports=32033 MedianTruck=0 MedianWagon=28725
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=7224 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Dodge (USA)
+CountHybrid=0 CountSUV=1 CountSedan=8 CountSports=1 CountTruck=3 CountWagon=0
+MedianHybrid=0 MedianSUV=29472 MedianSedan=19661.5 MedianSports=74451 MedianTruck=18076 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=5984 DistanceSports=0 DistanceTruck=2406 DistanceWagon=0
+Ford (USA)
+CountHybrid=0 CountSUV=4 CountSedan=11 CountSports=3 CountTruck=3 CountWagon=2
+MedianHybrid=0 MedianSUV=28725.5 MedianSedan=18881 MedianSports=26875 MedianTruck=19490 MedianWagon=18416
+DistanceHybrid=0 DistanceSUV=9536 DistanceSedan=10002 DistanceSports=17540 DistanceTruck=15688 DistanceWagon=-4474
+GMC (USA)
+CountHybrid=0 CountSUV=3 CountSedan=1 CountSports=0 CountTruck=4 CountWagon=0
+MedianHybrid=0 MedianSUV=31361 MedianSedan=23215 MedianSports=0 MedianTruck=22823.5 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=11612 DistanceSedan=0 DistanceSports=0 DistanceTruck=5660.5 DistanceWagon=0
+Honda (Asia)
+CountHybrid=2 CountSUV=3 CountSedan=11 CountSports=1 CountTruck=0 CountWagon=0
+MedianHybrid=18181 MedianSUV=18419 MedianSedan=17924 MedianSports=29965 MedianTruck=0 MedianWagon=0
+DistanceHybrid=-3654 DistanceSUV=7509 DistanceSedan=7967 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Hummer (USA)
+CountHybrid=0 CountSUV=1 CountSedan=0 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=45815 MedianSedan=0 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=0 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Hyundai (Asia)
+CountHybrid=0 CountSUV=1 CountSedan=10 CountSports=1 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=20201 MedianSedan=14207 MedianSports=17101 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=6814.5 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Infiniti (Asia)
+CountHybrid=0 CountSUV=0 CountSedan=6 CountSports=0 CountTruck=0 CountWagon=2
+MedianHybrid=0 MedianSUV=0 MedianSedan=29051.5 MedianSports=0 MedianTruck=0 MedianWagon=32438.5
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=7441 DistanceSports=0 DistanceTruck=0 DistanceWagon=-7227
+Isuzu (Asia)
+CountHybrid=0 CountSUV=2 CountSedan=0 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=24619 MedianSedan=0 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=-1572 DistanceSedan=0 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Jaguar (Europe)
+CountHybrid=0 CountSUV=0 CountSedan=8 CountSports=4 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=0 MedianSedan=50106 MedianSports=71491 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=24673 DistanceSports=10920 DistanceTruck=0 DistanceWagon=0
+Jeep (USA)
+CountHybrid=0 CountSUV=3 CountSedan=0 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=23275 MedianSedan=0 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=6713 DistanceSedan=0 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Kia (Asia)
+CountHybrid=0 CountSUV=1 CountSedan=9 CountSports=0 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=18630 MedianSedan=13790 MedianSports=0 MedianTruck=0 MedianWagon=11410
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=5220 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Land Rover (Europe)
+CountHybrid=0 CountSUV=3 CountSedan=0 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=35777 MedianSedan=0 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=41838 DistanceSedan=0 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Lexus (Asia)
+CountHybrid=0 CountSUV=3 CountSedan=6 CountSports=1 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=39838 MedianSedan=32475.5 MedianSports=55063 MedianTruck=0 MedianWagon=28647
+DistanceHybrid=0 DistanceSUV=21879 DistanceSedan=11206.5 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Lincoln (USA)
+CountHybrid=0 CountSUV=2 CountSedan=7 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=42901.5 MedianSedan=38418 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=8856.5 DistanceSedan=7288 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+MINI (Europe)
+CountHybrid=0 CountSUV=0 CountSedan=2 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=0 MedianSedan=16787 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=-14035.5 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Mazda (Asia)
+CountHybrid=0 CountSUV=1 CountSedan=4 CountSports=4 CountTruck=2 CountWagon=0
+MedianHybrid=0 MedianSUV=19742 MedianSedan=16869.5 MedianSports=23539.5 MedianTruck=17276 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=6985 DistanceSports=2493.5 DistanceTruck=-2348.5 DistanceWagon=0
+Mercedes-Benz (Europe)
+CountHybrid=0 CountSUV=2 CountSedan=16 CountSports=5 CountTruck=0 CountWagon=3
+MedianHybrid=0 MedianSUV=57404 MedianSedan=43407.5 MedianSports=84325 MedianTruck=0 MedianWagon=47174
+DistanceHybrid=0 DistanceSUV=25529 DistanceSedan=28953.5 DistanceSports=61099 DistanceTruck=0 DistanceWagon=25008
+Mercury (USA)
+CountHybrid=0 CountSUV=1 CountSedan=7 CountSports=0 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=27317 MedianSedan=27148 MedianSports=0 MedianTruck=0 MedianWagon=20748
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=8928 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Mitsubishi (Asia)
+CountHybrid=0 CountSUV=3 CountSedan=6 CountSports=3 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=28330 MedianSedan=17076.5 MedianSports=25218 MedianTruck=0 MedianWagon=16295
+DistanceHybrid=0 DistanceSUV=13194 DistanceSedan=6185.5 DistanceSports=4010 DistanceTruck=0 DistanceWagon=0
+Nissan (Asia)
+CountHybrid=0 CountSUV=3 CountSedan=9 CountSports=2 CountTruck=2 CountWagon=1
+MedianHybrid=0 MedianSUV=25972 MedianSedan=21580 MedianSports=28524 MedianTruck=21589.5 MedianWagon=27300
+DistanceHybrid=0 DistanceSUV=11303 DistanceSedan=8738 DistanceSports=913 DistanceTruck=-3459.5 DistanceWagon=0
+Oldsmobile (USA)
+CountHybrid=0 CountSUV=0 CountSedan=3 CountSports=0 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=0 MedianSedan=21485 MedianSports=0 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=8478 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Pontiac (USA)
+CountHybrid=0 CountSUV=1 CountSedan=8 CountSports=1 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=19810 MedianSedan=21119.5 MedianSports=30710 MedianTruck=0 MedianWagon=15973
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=6912 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Porsche (Europe)
+CountHybrid=0 CountSUV=1 CountSedan=0 CountSports=6 CountTruck=0 CountWagon=0
+MedianHybrid=0 MedianSUV=49865 MedianSedan=0 MedianSports=68178.5 MedianTruck=0 MedianWagon=0
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=0 DistanceSports=28891.5 DistanceTruck=0 DistanceWagon=0
+Saab (Europe)
+CountHybrid=0 CountSUV=0 CountSedan=6 CountSports=0 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=0 MedianSedan=35366 MedianSports=0 MedianTruck=0 MedianWagon=38376
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=7705 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Saturn (USA)
+CountHybrid=0 CountSUV=1 CountSedan=6 CountSports=0 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=19238 MedianSedan=14357.5 MedianSports=0 MedianTruck=0 MedianWagon=21779
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=3199 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Scion (Asia)
+CountHybrid=0 CountSUV=0 CountSedan=1 CountSports=0 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=0 MedianSedan=12340 MedianSports=0 MedianTruck=0 MedianWagon=13480
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=0 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Subaru (Asia)
+CountHybrid=0 CountSUV=0 CountSedan=6 CountSports=2 CountTruck=1 CountWagon=2
+MedianHybrid=0 MedianSUV=0 MedianSedan=24011.5 MedianSports=26076 MedianTruck=22304 MedianWagon=20709.5
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=7117.5 DistanceSports=263.5 DistanceTruck=0 DistanceWagon=-265.5
+Suzuki (Asia)
+CountHybrid=0 CountSUV=2 CountSedan=5 CountSports=0 CountTruck=0 CountWagon=1
+MedianHybrid=0 MedianSUV=19628 MedianSedan=14317 MedianSports=0 MedianTruck=0 MedianWagon=16291
+DistanceHybrid=0 DistanceSUV=267 DistanceSedan=2659 DistanceSports=0 DistanceTruck=0 DistanceWagon=0
+Toyota (Asia)
+CountHybrid=1 CountSUV=5 CountSedan=16 CountSports=2 CountTruck=3 CountWagon=1
+MedianHybrid=18926 MedianSUV=24915 MedianSedan=18770.5 MedianSports=21575 MedianTruck=14978 MedianWagon=15156
+DistanceHybrid=0 DistanceSUV=7026 DistanceSedan=10051.5 DistanceSports=-2242 DistanceTruck=11641 DistanceWagon=0
+Volkswagen (Europe)
+CountHybrid=0 CountSUV=1 CountSedan=11 CountSports=0 CountTruck=0 CountWagon=3
+MedianHybrid=0 MedianSUV=32243 MedianSedan=21689 MedianSports=0 MedianTruck=0 MedianWagon=22801
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=16414 DistanceSports=0 DistanceTruck=0 DistanceWagon=19529
+Volvo (Europe)
+CountHybrid=0 CountSUV=1 CountSedan=9 CountSports=0 CountTruck=0 CountWagon=2
+MedianHybrid=0 MedianSUV=38851 MedianSedan=35542 MedianSports=0 MedianTruck=0 MedianWagon=28876.5
+DistanceHybrid=0 DistanceSUV=0 DistanceSedan=5301 DistanceSports=0 DistanceTruck=0 DistanceWagon=-4730.5
